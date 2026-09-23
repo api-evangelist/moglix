@@ -1,0 +1,29 @@
+# Front Door AI Index — moglix — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: moglix
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.moglix.com
+  final_host: www.moglix.com
+  ownership: own
+  owner: moglix
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 5
+  host_score: 5
+  density: 0.9
+  words: 5556
+  tiers:
+    agentic: 3
+    core: 1
+    model: 1
+  ambiguous: 10
+  top_terms:
+    smart: 10
+    MCP: 2
+    AI: 1
+    chatbot: 1
+    transformer: 1
